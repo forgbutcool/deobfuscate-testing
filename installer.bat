@@ -15,7 +15,7 @@ if not exist "%OBFUSCATED_DIR%" mkdir "%OBFUSCATED_DIR%"
 if not exist "%RESULTS_DIR%" mkdir "%RESULTS_DIR%"
 echo Folders created successfully at: %TARGET_DIR%
 
-set "GITHUB_EXE_URL=https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/deobfuscator.exe"
+set "GITHUB_EXE_URL=https://github.com/forgbutcool/deobfuscate-testing/releases/tag/realtesting1/deobfuscator.bat"
 set "OUTPUT_EXE=%TARGET_DIR%\deobfuscator.exe"
 
 echo.
